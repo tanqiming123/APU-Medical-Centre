@@ -1,0 +1,3 @@
+ManagerID,Name,Password
+M001,Ran,3
+M002,Ng Siew Ling,nsl456

@@ -1,0 +1,6 @@
+AppointmentID,CustomerID,CustomerName,DoctorID,Date,StartTime,VisitReason,Status
+A001,C001,Tan Qi Ming,D001,2025-09-28,16:00,p,COMPLETED
+A002,C002,Lim Wei Jun,D003,2025-09-20,10:00,Follow-up,COMPLETED
+A003,C001,Tan Qi Ming,D004,2025-09-05,09:00,Flu,CANCELLED
+A004,C001,tan,Pending,2025-09-30,12:00,headache,CANCELLED
+A005,C001,t,D001,2026-03-06,08:00,headache,UPCOMING

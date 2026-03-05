@@ -1,0 +1,4 @@
+FeedbackID,AppointmentID,FromUserID,ToUserID,CommentText,Date
+F001,A002,C002,D003,Doctor explained everything clearly.,2025-09-20
+F002,N/A,C001,S001,not good,2025-09-28
+F003,A001,C001,D001,HI,2025-09-28

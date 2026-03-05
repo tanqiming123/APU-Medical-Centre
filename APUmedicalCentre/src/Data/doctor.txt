@@ -1,0 +1,6 @@
+DoctorID,Name,Password,Specialist
+D001,I,6,Cardiologist
+D002,Dr. Tan Mei Ling,doc456,Dermatologist
+D003,Dr. Ahmad Faiz,doc789,Orthopedic
+D004,Dr. Chua Siew Ping,doc321,Pediatrician
+D005,Dr. Wong Jia Hao,doc654,Neurologist
